@@ -10,6 +10,20 @@ const changeMenuDisplay = () => menu.classList.toggle("active");
   elem.addEventListener("click", changeMenuDisplay)
 );
 
+// <-- Smooth scroll -->
+const sectionLinks = document.querySelectorAll("a[href^='#']");
+
+sectionLinks.forEach((linkEl) => {
+  linkEl.addEventListener("click", (e) => {
+    e.preventDefault();
+
+    const linkHref = e.target.getAttribute("href"),
+      sectionEl = document.querySelector(linkHref);
+
+    sectionEl.scrollIntoView({ behavior: "smooth" });
+  });
+});
+
 // <-- Skills counter -->
 const counters = document.querySelectorAll(".skills__ratings-counter"),
   lines = document.querySelectorAll(".skills__ratings-line span");
