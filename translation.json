@@ -1,0 +1,234 @@
+{
+  "socials": {
+    "en": "Social networks",
+    "ua": "Соціальні мережі"
+  },
+  "about": {
+    "en": "About me",
+    "ua": "Про мене"
+  },
+  "my-experience": {
+    "en": "My experience",
+    "ua": "Мій досвід"
+  },
+  "my-skills": {
+    "en": "My skills",
+    "ua": "Мої навички"
+  },
+  "projects": {
+    "en": "My projects",
+    "ua": "Мої проєкти"
+  },
+  "prices": {
+    "en": "Prices",
+    "ua": "Прайс-лист"
+  },
+  "contacts": {
+    "en": "Contacts",
+    "ua": "Контакти"
+  },
+  "name": {
+    "en": "My name is Konstantin",
+    "ua": "Мене звати Костянтин"
+  },
+  "city": {
+    "en": "I'm a web-developer<br/>from Kyiv",
+    "ua": "Я web-developer<br/>з міста Київ"
+  },
+  "portfolio": {
+    "en": "Portfolio",
+    "ua": "Портфоліо"
+  },
+  "about-text": {
+    "en": "My adventure with IT started with trying myself in different directions, but over time it became clear that my true passion was web development. Watching how the Internet is constantly changing and evolving, I always set myself the task of learning and improving my skills. Every day I learn something new, from following the latest web trends the latest trends in web development to improving my work in practice. My main area of expertise is website layout. I specialize in creating aesthetic and functional interfaces for web projects.",
+    "ua": "Моя пригода з ІТ-сферою почалася зі спроби себе в різних напрямках, але з часом стало зрозуміло, що моя справжня страсть - це веб-розробка. Спостерігаючи, як інтернет постійно змінюється та розвивається, я завжди ставлю перед собою завдання навчатися та покращувати свої навички. Щодня я вивчаю щось нове, від слідкуючи за останніми трендами у веб-розробці до вдосконалення моєї роботи на практиці. Моя основна сфера експертизи - це верстка веб-сайтів. Я спеціалізуюсь на створенні естетичних та функціональних інтерфейсів для веб-проектів."
+  },
+  "layout": {
+    "en": "Website Layout",
+    "ua": "Верстка сайту"
+  },
+  "layout-text": {
+    "en": "Visual design, page structure, ensuring excellent user experience. I work on the details and create websites that stand out for their elegance and accessibility for visitors.",
+    "ua": "Візуальне оформлення, структура сторінок, забезпечення відмінної користувацької зручності. Працюю над деталями та створюю веб-сайти, які виділяються своєю елегантністю та доступністю для відвідувачів."
+  },
+  "webflow-text": {
+    "en": "Speeds up the development process and provides customers with a convenient content management system. It allows you to quickly and efficiently implement various web projects.",
+    "ua": "Прискорює процес розробки та забезпечує клієнтам зручну систему управління контентом. Дозволяє швидко і якісно втілити різноманітні веб-проекти, надаючи їм сучасний вигляд та функціональність."
+  },
+  "design": {
+    "en": "Web Design",
+    "ua": "Веб-дизайн"
+  },
+  "design-text": {
+    "en": "From responsive design to color usage and typography, every aspect of the workflow is discussed in detail and optimized for the best results.",
+    "ua": "Від адаптивного дизайну до використання кольорів та типографії - кожен аспект робочого процесу докладно обговорюється та оптимізується для досягнення найкращих результатів"
+  },
+  "experience": {
+    "en": "Experience",
+    "ua": "Досвід"
+  },
+  "experience-descr": {
+    "en": "How will I be useful",
+    "ua": "Чим я буду корисний"
+  },
+  "education": {
+    "en": "Education",
+    "ua": "Освіта"
+  },
+  "university": {
+    "en": "Kyiv Polytechnic Institute",
+    "ua": "Київський політехнічний інститут"
+  },
+  "degree": {
+    "en": "Bachelor's degree | Kyiv (2019-2023)",
+    "ua": "Диплом бакалавра | Київ (2019-2023)"
+  },
+  "degree-info": {
+    "en": "Field of knowledge: Information technology.<br/>Faculty of Informatics and Computer Science.<br/>Department of Informatics and Software Engineering.<br/>Educational program: Software engineering.",
+    "ua": "Галузь знань: Інформаційні технології.<br/>Факультет інформатики та обчислювальної техніки.<br />Кафедра інформатики та програмної інженерії - ІПІ.<br />Освітня програма: Інженерія програмного забезпечення.<br />"
+  },
+  "courses": {
+    "en": "All completed courses",
+    "ua": "Всі пройдені курси"
+  },
+  "work-experience": {
+    "en": "Work experience",
+    "ua": "Досвід роботи"
+  },
+  "degree-project": {
+    "en": "Graduation project",
+    "ua": "Дипломний проєкт"
+  },
+  "bus-tickets": {
+    "en": "BusTickets | Kyiv (2023)",
+    "ua": "BusTickets | Київ (2023)"
+  },
+  "bus-tickets-info": {
+    "en": "Research of modern web applications for booking bus tickets. The created full-stack web application has the following functionality: seat reservation, user rights control, adding, editing, deleting flights, and confirming the driver's identity. The user interface is intuitive, consistent and easy to use.<br />(Node.js, Express, Mongoose, React, Redux, JWT, antd, bcryptjs, Stripe API, Leaflet, Axios)",
+    "ua": "Дослідження сучасних веб-застосунків для бронювання автобусних квитків. Створений full-stack веб-застосунок має функціонал: бронювання місць, контроль прав користувачів, додавання, редагування, видалення рейсів та підтвердження особистості водія. Інтерфейс користувача інтуїтивно зрозумілий, послідовний та легкий у використанні.<br />(Node.js, Express, Mongoose, React, Redux, JWT, antd, bcryptjs, Stripe API, Leaflet, Axios)"
+  },
+  "skills": {
+    "en": "Skills",
+    "ua": "Навички"
+  },
+  "skills-descr": {
+    "en": "What I use in my work",
+    "ua": "Що я використовую в роботі"
+  },
+  "html-text": {
+    "en": "A standard markup language for creating web pages and web applications. It is used to structure and display content on websites.",
+    "ua": "Cтандартна мова розмітки для створення веб-сторінок і веб-додатків. Використовується для структурування та відображення вмісту на веб-сайтах."
+  },
+  "css-text": {
+    "en": "A styling language for specifying the appearance and design of web pages. It allows you to define properties of HTML elements",
+    "ua": "Мова стилізації для задання зовнішнього вигляду і оформлення веб-сторінок. Дозволяє визначати розмір, колір, шрифти, фон та інші властивості елементів HTML."
+  },
+  "sass-text": {
+    "en": "A CSS preprocessor for creating more convenient and simpler code. It helps manage styles more efficiently.",
+    "ua": "Препроцесор CSS для створення зручнішого та простішого коду. Допомагає ефективніше керувати стилями, полегшує підтримку та розширення веб-проектів."
+  },
+  "js-text": {
+    "en": "A programming language for creating dynamic web pages. It allows to interact with page content, handle events and more.",
+    "ua": "Мова програмування для створення динамічних веб-сторінок. Дозволяє взаємодіяти з вмістом сторінки, обробляти події, валідувати дані, анімувати елементи тощо."
+  },
+  "photoshop-text": {
+    "en": "A graphic editor for creating, editing, and processing images and graphics. It is used to create design websites.",
+    "ua": "Графічний редактор для створення, редагування, обробки зображень та графіки. Використовується для створення окремих елементів та дизайну веб-сайтів."
+  },
+  "illustrator-text": {
+    "en": "A vector graphics editor designed to create and edit illustrations and graphics. It is used to design vector graphic elements.",
+    "ua": "Векторний графічний редактор, призначений для створення, редагування ілюстрацій та графіки. Використовується для дизайну векторних графічних елементів."
+  },
+  "figma-text": {
+    "en": "Vector graphic editor and online platform for design and prototyping. It is used to create web designs and user interfaces.",
+    "ua": "Векторний графічний редактор та онлайн-платформа для дизайну і прототипування. Потрібний для створення веб-дизайнів та інтерфейсів користувача."
+  },
+  "canva-text": {
+    "en": "An online platform and tool for creating graphic elements. It is used to quickly create media content for websites.",
+    "ua": "Онлайн-платформа та інструмент для створення графічних елементів. Використовується для швидкого створення зображень та медіа-контенту для веб-сайтів."
+  },
+  "skill-sites": {
+    "en": "Website development",
+    "ua": "Створення сайтів"
+  },
+  "skill-prototypes": {
+    "en": "Prototype development",
+    "ua": "Розробка прототипів"
+  },
+  "skill-datasets": {
+    "en": "Data interaction",
+    "ua": "Взаємодія з даними"
+  },
+  "skill-creativity": {
+    "en": "Creativity",
+    "ua": "Креативність"
+  },
+  "skill-designes": {
+    "en": "Creating designs",
+    "ua": "Створення дизайнів"
+  },
+  "skill-adaptives": {
+    "en": "Website adaptation",
+    "ua": "Адаптація сайтів"
+  },
+  "from": {
+    "en": "from",
+    "ua": "від"
+  },
+  "landing-descr": {
+    "en": "One-page website for presentation of services/goods",
+    "ua": "Односторінковий сайт для презентації послуг/товарів"
+  },
+  "webflow-descr": {
+    "en": "Development of an adaptive, customized website",
+    "ua": "Розробка адаптивного, кастомізованого сайту Webflow"
+  },
+  "layout-descr": {
+    "en": "Convert the design and concept of the site to the page",
+    "ua": "Перенесення дизайну та концепції сайту на сторінку"
+  },
+  "design-descr": {
+    "en": "Create a design layout or individual elements",
+    "ua": "Створення дизайн-макету або окремих елементів"
+  },
+  "contact-me": {
+    "en": "Get in touch with me",
+    "ua": "Зв'яжіться зі мною"
+  },
+  "convenient-way": {
+    "en": "In any way convenient for you:",
+    "ua": "Будь-яким зручним для вас способом:"
+  },
+  "leave-details": {
+    "en": "Or leave your details and I'll write to you:",
+    "ua": "Або залиште ваші дані і я сам вам напишу:"
+  },
+  "your-name": {
+    "en": "Your name",
+    "ua": "Ваше ім'я"
+  },
+  "your-email": {
+    "en": "Your email",
+    "ua": "Ваша пошта"
+  },
+  "your-message": {
+    "en": "Your message",
+    "ua": "Ваше повідомлення"
+  },
+  "send": {
+    "en": "Send",
+    "ua": "Відправити"
+  },
+  "agree-with": {
+    "en": "I agree with the",
+    "ua": "Я погоджуюсь з"
+  },
+  "privacy": {
+    "en": "privacy policy",
+    "ua": "політикою конфіденційності"
+  },
+  "message-sent": {
+    "en": "Message sent.<br />I will write to you soon!",
+    "ua": "Повідомлення відправлено.<br />Я напишу Вам найближчим часом!"
+  }
+}
