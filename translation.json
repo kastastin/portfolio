@@ -220,12 +220,8 @@
     "ua": "Відправити"
   },
   "agree-with": {
-    "en": "I agree with the",
-    "ua": "Я погоджуюсь з"
-  },
-  "privacy": {
-    "en": "privacy policy",
-    "ua": "політикою конфіденційності"
+    "en": "I agree with the<a href='policy.html'>privacy policy</a>",
+    "ua": "Я погоджуюсь з <a href='policy.html'>політикою конфіденційності</a>"
   },
   "message-sent": {
     "en": "Message sent.<br />I will write to you soon!",
